@@ -196,7 +196,7 @@ Intelligent-SOC-Assistant/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone <https://github.com/NavyaSree-H4ck/Intelligent-SOC-Assistant.git>
 cd Intelligent-SOC-Assistant
 ```
 
