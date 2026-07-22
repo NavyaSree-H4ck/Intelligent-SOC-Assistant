@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Runtime databases
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/*.sqlite
+data/*.sqlite3
+
+# Runtime state
+state/*.txt
+
+# Generated reports
+reports/generated/*.pdf
+
+# Backups
+backup_working/
+
+# Build files
+build/
+dist/
+*.spec
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Temporary project listing
+project_structure.txt
